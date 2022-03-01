@@ -6,3 +6,5 @@ echo "folder b is created"
 cd b
 touch text.txt
 echo "text.txt file is created"
+cd ..
+rm -r *

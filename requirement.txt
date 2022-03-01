@@ -1,0 +1,15 @@
+write a bash scipt in the repo
+add execution for the owner group of bash script
+exercise_1.sh the content: create a folder called a; create another called b within a
+then create a text file called text.txt; after creating each folder, need to print a line 
+```
+    $ command to create a folder B. 
+    folder b is created
+
+    $ command to create folder A 
+    folder a is created 
+
+    $ command to create file test.txt
+    test.txt is created
+```
+use 'echo' to print
