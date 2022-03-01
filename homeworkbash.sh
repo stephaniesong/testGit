@@ -5,4 +5,4 @@ mkdir b
 echo "folder b is created"
 cd b
 touch text.txt
-echo "text file is created"
+echo "text.txt file is created"
